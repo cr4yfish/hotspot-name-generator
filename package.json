@@ -1,0 +1,35 @@
+{
+  "name": "hotspot-name-generator",
+  "version": "1.0.0",
+  "description": "Generate names for your hotspot or bluetooth name.",
+  "scripts": {
+    "dev": "next dev -p 30001",
+    "build": "next build",
+    "start": "next start -p 30010",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.7",
+    "next": "12.1.6",
+    "next-compose-plugins": "^2.2.1",
+    "next-pwa": "^5.5.4",
+    "next-themes": "^0.2.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-icons": "^4.3.1"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr4yfish/hotspot-name-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cr4yfish/hotspot-name-generator/issues"
+  },
+  "homepage": "https://github.com/cr4yfish/hotspot-name-generator#readme"
+}
